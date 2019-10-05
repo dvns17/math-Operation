@@ -18,6 +18,7 @@ c = "is awesome"
 
 d = b + " " + c 
 print(d)
+print(d)
 
 x = 2
 
@@ -38,3 +39,4 @@ e = 6
 
 f = d // e 
 print("f equals " + str(f)) 
+print(z)
