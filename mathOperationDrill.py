@@ -9,7 +9,7 @@ a = 6
 b = -18
 
 c = (a + b)
-print("c equals " + str(c)) 
+print("c equals " + str(c))
 
 
 d = 8
@@ -17,4 +17,4 @@ d = 8
 e = 94
 
 f = [d + e] 
-print (f) 
+print(f)
